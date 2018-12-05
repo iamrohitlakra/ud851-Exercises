@@ -28,9 +28,10 @@
     <!--TODO (4) Give the TextView 16dp of padding-->
     <!--TODO (5) Set the text size to 20sp-->
     <TextView
+        android:padding="16dp"
+        android:textSize="20sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-         />
+        android:text="Welcome"/>
 
 </FrameLayout>
